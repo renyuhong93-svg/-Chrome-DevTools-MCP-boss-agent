@@ -1,0 +1,7 @@
+mcp[cli]>=1.27,<2
+ollama
+openai
+pydantic
+python-dotenv
+loguru
+PyYAML
